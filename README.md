@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @synbojj
 - 👀 I’m interested in dev/backend
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ROBLOX
+- 💞️ I’m looking to collaborate in ROBLOX
 - 📫 How to reach me ... dont left me ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i like kebabs
